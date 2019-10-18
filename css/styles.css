@@ -7,7 +7,7 @@ body {
   background-color: #b3cce6;
 }
 
-h2 {
+h2, h3 {
   font-weight: bold;
 }
 
@@ -28,10 +28,12 @@ a {
 img {
   float: left;
   padding-right: 20px;
+  padding-bottom: 30px;
 }
 
 .bio {
-  margin-right: 50%;
+  margin-right: 30%;
+  font-size: 14pt;
 }
 
 blockquote {

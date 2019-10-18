@@ -30,7 +30,7 @@ _I hope I've accomplished all of this!_
 HTML, CSS, and Bootstrap
 
 ### Project Setup instructions
-_There shouldn't be any special setup required. If something doesn't display correctly or goes wrong somehow, please contact me at [mailto](lara.m.bjork@gmail.com) and I will do my best to troubleshoot for you._
+There shouldn't be any special setup required. If something doesn't display correctly or goes wrong somehow, please contact me at [mailto:lara.m.bjork@gmail.com](lara.m.bjork@gmail.com) and I will do my best to troubleshoot for you.
 
 ### here to Find This Project
 ** INSERT GITHUB PAGE ADDRESS there **

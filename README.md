@@ -32,8 +32,10 @@ HTML, CSS, and Bootstrap
 ### Project Setup instructions
 There shouldn't be any special setup required. If something doesn't display correctly (like this email address--still working on that!) or goes wrong somehow, please contact me at [mailto:lara.m.bjork@gmail.com](lara.m.bjork@gmail.com) and I will do my best to troubleshoot for you.
 
-### here to Find This Project
-** INSERT GITHUB PAGE ADDRESS there **
+Although there is responsive sizing in place, this project is best viewed on standard desktop. It was not tested on a large desktop, and there appear to be some issues with sizing for tables and phones.
+
+### Where to Find This Project
+larabjork.github.io/portfolio/
 
 ### License
 This software is licensed under the MIT license.

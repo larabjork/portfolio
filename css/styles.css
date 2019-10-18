@@ -44,14 +44,17 @@ blockquote {
   float: right;
 }
 
-#horizontal {
+.horizontal {
   transform: rotate(360deg);
   padding: 0px;
   padding-left: 41px;
   max-width: 300px;
 }
 
+.halfrotate {
+  transform:rotate(180deg);
+}
+
 li:last-child {
   padding-bottom: 5px;
 }
-last-child {margin-bottom: 1em}

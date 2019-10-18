@@ -32,6 +32,7 @@ img {
   padding-left: 30px;
   max-width: 250px;
   /* transform: rotate(90deg); */
+  image-orientation: from-image;
 }
 
 .bio {
@@ -45,6 +46,7 @@ blockquote {
 
 #bioImg {
   float: left;
+  max-height: 180px;
 }
 
 /* .horizontal {
@@ -55,13 +57,13 @@ blockquote {
 } */
 
 .quarterrotate {
-  transform: rotate(90deg);
+  /* transform: rotate(90deg); */
   float: left;
   padding-top: 20px;
 }
 
 .halfrotate {
-  transform:rotate(180deg);
+  /* transform:rotate(180deg); */
 }
 
 li:last-child {

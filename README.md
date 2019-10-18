@@ -32,7 +32,11 @@ HTML, CSS, and Bootstrap
 ### Project Setup instructions
 There shouldn't be any special setup required. If something doesn't display correctly (like this email address--still working on that!) or goes wrong somehow, please contact me at [mailto:lara.m.bjork@gmail.com](lara.m.bjork@gmail.com) and I will do my best to troubleshoot for you.
 
-Although there is responsive sizing in place, this project is best viewed on standard desktop. It was not tested on a large desktop, and there appear to be some issues with sizing for tables and phones.
+### Known Issues
+* Email link in this README as noted above.
+* Although there is responsive sizing in place, this project is best viewed on standard desktop. It was not tested on a large desktop, and there appear to be some issues with sizing for tables and phones.
+* Two of the images are not displaying in the GitHub page, as commented on in the HTML file. The alt text appears, but in Chrome, it is sometimes rotated. 
+
 
 ### Where to Find This Project
 larabjork.github.io/portfolio/

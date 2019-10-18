@@ -1,0 +1,26 @@
+body {
+  font-family: courier;
+  background-color: #ecf2f9;
+}
+
+.jumbotron {
+  background-color: #b3cce6;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+p, li {
+  font-family: sans-serif;
+}
+
+.special {
+  font-weight: bold;
+  font-style: italic;
+  color: #538ac6;
+}
+
+a {
+  font-color: #538ac6;
+}

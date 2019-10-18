@@ -24,3 +24,16 @@ p, li {
 a {
   font-color: #538ac6;
 }
+
+img {
+  float: left;
+  padding-right: 20px;
+}
+
+.bio {
+  margin-right: 50%;
+}
+
+blockquote {
+  float: right;
+}

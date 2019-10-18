@@ -26,7 +26,6 @@ a {
 }
 
 img {
-  float: left;
   padding-right: 20px;
   /* padding-bottom: 30px; */
   padding-top: 20px;
@@ -42,6 +41,10 @@ img {
 
 blockquote {
   float: right;
+}
+
+#bioImg {
+  float: left;
 }
 
 #horizontal {

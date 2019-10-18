@@ -50,3 +50,8 @@ blockquote {
   padding-left: 41px;
   max-width: 300px;
 }
+
+li:last-child {
+  padding-bottom: 5px;
+}
+last-child {margin-bottom: 1em}
